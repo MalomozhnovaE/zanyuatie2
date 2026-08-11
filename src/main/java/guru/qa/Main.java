@@ -4,7 +4,7 @@ package guru.qa;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
 
-        public static String msg = ""Hello qa guru!!@!!!""
+        public static String msg = "Hello qa guru!"
     
     public static void main(String[] args) {
         //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
